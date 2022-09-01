@@ -1,1 +1,1 @@
-web: gunicorn django-pbp-exercise.wsgi --log-file -
+web: gunicorn django-exercise.wsgi --log-file -
